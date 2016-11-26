@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.7" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="false" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="project5.chatternet.ClientActivity" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/ClientActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="334" width="258" x="1124" y="2031"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="project5.chatternet.ClientActivity.ConnectionThread" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/ClientActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="136" x="1124" y="2405"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="project5.chatternet.ServerActivity" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/ServerActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="318" width="258" x="499" y="2031"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="project5.chatternet.ViewerActivity" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/ViewerActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="105" x="797" y="2031"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="project5.chatternet.TextViewerActivity" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/TextViewerActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="135" x="797" y="2405"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="project5.chatternet.MainActivity" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="126" width="168" x="864" y="1673"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="project5.chatternet.data.PersistentStorage" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/data/PersistentStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="126" width="152" x="286" y="2031"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="project5.chatternet.data.NoteStorage" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/data/NoteStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="94" width="121" x="682" y="1673"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="project5.chatternet.data.ChatStorage" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/data/ChatStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="126" width="272" x="349" y="1673"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="project5.chatternet.data.ChatMessage" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/data/ChatMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="121" x="104" y="2031"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="11" language="java" name="project5.chatternet.data.PersistentStorage.StorageType" 
+    project="Chatternet" file="/Chatternet/src/project5/chatternet/data/PersistentStorage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="126" x="341" y="2405"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="12" language="java" name="project5.chatternet.data.Note" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/data/Note.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="121" x="963" y="2031"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="project5.chatternet.managers.DisconnectionManager" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/managers/DisconnectionManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="167" x="167" y="1133"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="project5.chatternet.managers.ServerManager" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/managers/ServerManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="179" x="705" y="689"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="project5.chatternet.managers.ClientManager" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/managers/ClientManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="152" x="1337" y="689"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="project5.chatternet.messages.MessageIntent" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/messages/MessageIntent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="222" width="258" x="43" y="2405"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="project5.chatternet.messages.RoutedMessage" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/messages/RoutedMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="318" width="177" x="1135" y="1673"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="project5.chatternet.routing.RingOfMastersRoutingProtocol" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/routing/RingOfMastersRoutingProtocol.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="382" width="323" x="884" y="267"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="project5.chatternet.routing.IRoutingProtocol" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/routing/IRoutingProtocol.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="382" width="177" x="819" y="1251"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" 
+    name="project5.chatternet.routing.RingOfMastersRoutingProtocol.BackgroundConnectionThread" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/routing/RingOfMastersRoutingProtocol.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="110" width="220" x="924" y="689"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="21" language="java" name="project5.chatternet.services.DeviceType" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/DeviceType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="184" x="83" y="1673"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="22" language="java" name="project5.chatternet.services.BluetoothSocketDevice" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/BluetoothSocketDevice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="222" width="176" x="1146" y="871"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="project5.chatternet.services.BluetoothServerService" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/BluetoothServerService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="190" width="169" x="884" y="37"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="project5.chatternet.services.BluetoothSettings" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/BluetoothSettings.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="126" width="164" x="1445" y="2405"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="project5.chatternet.services.ServerService" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/ServerService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="137" x="642" y="1251"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="project5.chatternet.services.ClientService" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/ClientService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="137" x="1352" y="1673"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" 
+    name="project5.chatternet.services.BluetoothSocketDevice.BluetoothMessageReceiverThread" project="Chatternet" 
+    file="/Chatternet/src/project5/chatternet/services/BluetoothSocketDevice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="244" x="1099" y="1133"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="28">    
+    <bendpoint x="136" y="689"/>    
+    <bendpoint x="136" y="871"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="29">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <generalization id="31">    
+    <bendpoint x="1519" y="1251"/>    
+    <bendpoint x="1540" y="1133"/>    
+    <bendpoint x="1540" y="871"/>    
+    <bendpoint x="1540" y="689"/>    
+    <bendpoint x="1540" y="267"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="32">    
+    <bendpoint x="674" y="689"/>    
+    <bendpoint x="674" y="871"/>    
+    <bendpoint x="674" y="1133"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <dependency id="33">    
+    <bendpoint x="833" y="1673"/>    
+    <bendpoint x="932" y="2031"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <generalization id="34">    
+    <bendpoint x="136" y="1133"/>    
+    <bendpoint x="94" y="871"/>    
+    <bendpoint x="73" y="689"/>    
+    <bendpoint x="73" y="267"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <nesting id="35">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="39">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="40" name="store">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <bendpoint x="52" y="267"/>    
+    <bendpoint x="52" y="689"/>    
+    <bendpoint x="52" y="871"/>    
+    <bendpoint x="52" y="1133"/>    
+    <bendpoint x="52" y="1251"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="43" name="type">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="44" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="1174" y="689"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="46" name="next">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <bendpoint x="1047" y="871"/>    
+    <bendpoint x="1026" y="1133"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="49" name="protocol">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="50" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="51">    
+    <bendpoint x="653" y="871"/>    
+    <bendpoint x="611" y="1133"/>    
+    <bendpoint x="611" y="1251"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="157" y="871"/>    
+    <bendpoint x="115" y="1133"/>    
+    <bendpoint x="73" y="1251"/>    
+    <bendpoint x="52" y="1673"/>    
+    <bendpoint x="52" y="2031"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="53">    
+    <bendpoint x="1216" y="689"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="54" name="clients">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <nesting id="57">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <dependency id="58">    
+    <bendpoint x="1026" y="871"/>    
+    <bendpoint x="1047" y="1133"/>    
+    <bendpoint x="1047" y="1251"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <association id="59">    
+    <bendpoint x="1068" y="1133"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="60" name="routing">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="62">    
+    <bendpoint x="1306" y="689"/>    
+    <bendpoint x="1352" y="871"/>    
+    <bendpoint x="1415" y="1133"/>    
+    <bendpoint x="1415" y="1251"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="64">    
+    <bendpoint x="115" y="689"/>    
+    <bendpoint x="115" y="871"/>    
+    <bendpoint x="94" y="1133"/>    
+    <bendpoint x="94" y="1251"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="65" name="type">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="66" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="67">    
+    <bendpoint x="318" y="1673"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="69">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="71">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="72" name="thread">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="73" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="74">    
+    <bendpoint x="255" y="2031"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="75">    
+    <bendpoint x="1454" y="2031"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="76">    
+    <bendpoint x="1519" y="689"/>    
+    <bendpoint x="1519" y="871"/>    
+    <bendpoint x="1519" y="1133"/>    
+    <bendpoint x="1540" y="1251"/>    
+    <bendpoint x="1540" y="1673"/>    
+    <bendpoint x="1540" y="2031"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="78">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="79">    
+    <bendpoint x="94" y="689"/>    
+    <bendpoint x="73" y="871"/>    
+    <bendpoint x="73" y="1133"/>    
+    <bendpoint x="31" y="1251"/>    
+    <bendpoint x="31" y="1673"/>    
+    <bendpoint x="31" y="2031"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="80">    
+    <bendpoint x="1115" y="871"/>    
+    <bendpoint x="1394" y="1133"/>    
+    <bendpoint x="1456" y="1251"/>    
+    <bendpoint x="1519" y="1673"/>    
+    <bendpoint x="1519" y="2031"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="81">    
+    <bendpoint x="1237" y="267"/>    
+    <bendpoint x="1237" y="689"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="82">    
+    <bendpoint x="1005" y="871"/>    
+    <bendpoint x="1005" y="1133"/>    
+    <bendpoint x="1026" y="1251"/>    
+    <bendpoint x="1104" y="1673"/>    
+    <bendpoint x="1433" y="2031"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="83">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="84" name="noteStore">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="85" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="87">    
+    <bendpoint x="1062" y="1673"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="88">    
+    <bendpoint x="1083" y="1673"/>    
+    <bendpoint x="1412" y="2031"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="89">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="92">    
+    <bendpoint x="468" y="2031"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="93">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="94" name="thread">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="95" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="96">    
+    <bendpoint x="771" y="871"/>    
+    <bendpoint x="771" y="1133"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <association id="97">    
+    <bendpoint x="632" y="267"/>    
+    <bendpoint x="632" y="689"/>    
+    <bendpoint x="632" y="871"/>    
+    <bendpoint x="632" y="1133"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="98" name="protocol">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="99" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <bendpoint x="1195" y="689"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="101" name="allDevices">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="102" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="103">    
+    <bendpoint x="1475" y="2031"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="104">    
+    <bendpoint x="1373" y="871"/>    
+    <bendpoint x="1373" y="1133"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="105">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <nesting id="106">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="108">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="109" name="chatStore">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="110" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="111">    
+    <bendpoint x="1561" y="267"/>    
+    <bendpoint x="1561" y="689"/>    
+    <bendpoint x="1561" y="871"/>    
+    <bendpoint x="1561" y="1133"/>    
+    <bendpoint x="1561" y="1251"/>    
+    <bendpoint x="1561" y="1673"/>    
+    <bendpoint x="1561" y="2031"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="113">    
+    <bendpoint x="134" y="1251"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="114">    
+    <bendpoint x="1126" y="1251"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <association id="115">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="116" name="store">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="117" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="118">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="119">    
+    <bendpoint x="651" y="1673"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="120">    
+    <bendpoint x="297" y="1673"/>    
+    <bendpoint x="73" y="2031"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="121">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <nesting id="122">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <dependency id="123">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="false" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
